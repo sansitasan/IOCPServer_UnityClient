@@ -1,0 +1,6 @@
+﻿  address.pb.cc
+  Main.cpp
+C:\Users\82105\Desktop\inflearn\WinSocket\Project3\Main.cpp(20,33): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\82105\Desktop\inflearn\WinSocket\Project3\Main.cpp(42,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\82105\Desktop\inflearn\WinSocket\Project3\Main.cpp(62,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'libprotobufd.lib'
